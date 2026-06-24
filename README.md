@@ -1,13 +1,10 @@
-# UAS_Web2_312210461_Akram
-
-
 # Laporan Proyek Akhir UAS Pemrograman Web 2
 **Sistem Informasi Rental Buku / Komik Digital (E-Library)**
 
 ### Identitas Mahasiswa
 * **Nama:** Akram Satya
-* **NIM:** [312210461]
-* **Kelas:** TI.22.A.AI.1
+* **NIM:** 312210461
+* **Kelas:** I241A
 * **Kampus:** Universitas Pelita Bangsa
 * **Repositori:** `UAS_Web2_[312210461]_AkramSatya`
 
