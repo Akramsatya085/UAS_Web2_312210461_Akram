@@ -6,10 +6,10 @@
 
 ### Identitas Mahasiswa
 * **Nama:** Akram Satya
-* **NIM:** [Masukkan NIM Anda di sini]
+* **NIM:** [312210461]
 * **Kelas:** TI.22.A.AI.1
 * **Kampus:** Universitas Pelita Bangsa
-* **Repositori:** `UAS_Web2_[NIM]_AkramSatya`
+* **Repositori:** `UAS_Web2_[312210461]_AkramSatya`
 
 ---
 
