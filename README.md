@@ -1,4 +1,3 @@
-<img width="1919" height="1022" alt="Cuplikan layar 2026-06-22 180845" src="https://github.com/user-attachments/assets/c186e336-6c94-49c5-bbc5-6b604de690f5" />
 # Laporan Proyek Akhir UAS Pemrograman Web 2
 **Sistem Informasi Rental Buku / Komik Digital (E-Library)**
 
