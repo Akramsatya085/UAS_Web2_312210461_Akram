@@ -1,3 +1,4 @@
+<img width="1919" height="1022" alt="Cuplikan layar 2026-06-22 180845" src="https://github.com/user-attachments/assets/c186e336-6c94-49c5-bbc5-6b604de690f5" />
 # Laporan Proyek Akhir UAS Pemrograman Web 2
 **Sistem Informasi Rental Buku / Komik Digital (E-Library)**
 
@@ -44,10 +45,12 @@ Endpoint API dilindungi oleh *Authorization Bearer Token* via CI4 Filters. Berik
 ### C. Arsitektur Frontend & UI TailwindCSS (Bobot 45%)
 Antarmuka telah dipecah menjadi komponen modular dan didesain murni menggunakan TailwindCSS (tanpa CSS tradisional).
 > **Screenshot Halaman Login (Dilengkapi Axios POST):** 
-> `![Login Page](Masukkan_Link_Gambar_Di_Sini)`
+> `![Login Page]<img width="1919" height="1022" alt="Cuplikan layar 2026-06-22 180845" src="https://github.com/user-attachments/assets/49831007-d2a1-498b-b567-2f2fd754ea13" />
+
 >
 > **Screenshot Dashboard Utama Admin (Diproteksi Navigation Guards):** 
-> `![Dashboard Admin](Masukkan_Link_Gambar_Di_Sini)`
+> `![Dashboard Admin]<img width="1275" height="919" alt="Cuplikan layar 2026-06-24 134848" src="https://github.com/user-attachments/assets/6f3c5021-e8d0-4edc-bab1-221277a4f930" />
+
 > 
 > **Screenshot Visualisasi Tabel Data TailwindCSS:** 
 > `![Tabel Data](Masukkan_Link_Gambar_Di_Sini)`
