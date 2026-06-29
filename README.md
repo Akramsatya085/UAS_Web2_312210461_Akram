@@ -75,5 +75,5 @@ Untuk menguji coba aplikasi secara lokal, silakan ikuti tahapan berikut:
 ---
 
 ## 🔗 6. Tautan Evaluasi
-* 🎬 **Video Presentasi YouTube (Maks 7 Menit):** [Masukkan Link YouTube Anda di sini]
+* 🎬 **Video Presentasi YouTube (Maks 7 Menit):** https://youtu.be/gdKYs7D2Tbg
 * 🌍 **Demo Live Aplikasi:** [Masukkan Link Demo Anda di sini, hapus jika tidak ada]
